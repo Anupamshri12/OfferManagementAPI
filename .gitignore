@@ -1,0 +1,5 @@
+bin/
+obj/
+
+/bin/net8.0/
+/obj/net8.0/
